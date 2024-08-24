@@ -1,41 +1,74 @@
+# Syed Afraz
 
-# [Project 1: Animated Landing Page - Pepsi Website Clone](https://animatedwebsitescollection.netlify.app/pepsi_redisgn/)
-=====================================================
+**Email:** [afrazsajid55@gmail.com](mailto:afrazsajid55@gmail.com)  
+**Phone:** +92 321-2051546  
+**GitHub:** [AfrazSajid](https://github.com/Afrazsajid)
 
-## Overview
------------
+---
 
-In this project, I created an animated landing page inspired by an award-winning website. I aimed to replicate the amazing animation outcomes using GSAP and smooth scrolling with Locomotive Scroll. This project allowed me to practice front-end related logics and approaches.
+## Summary
+Hey there! I'm a passionate student with a knack for Python programming and a love for web development. I'm super pumped about joining CodeAlpha's Training + Internship program, where I can dive deep into learning and contribute my skills to real-world projects.
 
-## What I Learned
------------------
+---
 
-* **GSAP**: I learned how to create stunning animations using GSAP's powerful animation library. I implemented various animation effects, such as scrolling animations, hover effects, and loading animations.
-* **Locomotive Scroll**: I implemented smooth scrolling using Locomotive Scroll, which provided a seamless user experience.
-* **Front-end Logics**: I applied front-end related logics and approaches to create a responsive and user-friendly interface.
-* **Inspiration**: This project was inspired by an award-winning website, and I aimed to replicate its amazing design and animation effects.
+## Work Experience
 
-## Project Details
------------------
+### Python Teacher
+**Adamjee Model School, Karachi**  
+*June 2023 - July 2023*
 
-* **Website Clone**: I created a Pepsi website clone, inspired by the original design.
-* **Animation Effects**: I implemented various animation effects, including scrolling animations, hover effects, and loading animations.
-* **Smooth Scrolling**: I used Locomotive Scroll to provide a seamless scrolling experience.
-* **Responsive Design**: I ensured a responsive design, making the website accessible on various devices.
+- Created a collaborative learning environment, evaluating student progress to apply all learned skills.
+- Developed lesson plans and assignments for real-world situations, providing personalized assistance.
+- Taught Python programming to students through hands-on learning experiences, covering fundamental topics.
 
-## Conclusion
-----------
+### Freelance Pygame Developer
+**Independent, Virtual**  
+*July 2023 - July 2023*
 
-This project allowed me to practice and improve my front-end skills, particularly with GSAP and Locomotive Scroll. I learned how to create stunning animations and provide a smooth user experience. The project's outcome is a responsive and user-friendly Pepsi website clone, inspired by an award-winning design.
+- Collaborated with client to refine concepts and iterate on gameplay, showcasing effective communication skills.
+- Applied industry skills to implement core game mechanics, UI elements, and rule systems.
+- Developed a territorial capture game using the Pygame framework for projects.
 
-## License
-----------
+---
 
-This project is licensed under the MIT License. Feel free to use and modify the code as you see fit.
+## Projects
 
-## Acknowledgments
----------------
+### [Groovy Tunes Music](https://github.com/Afrazsajid/musicplayer)
+- Developed a web-based music player using HTML, CSS, and JavaScript.
+- Implemented features such as song switching and playlist creation.
+- Currently working on adding functionality for user-uploaded songs and customizable playlists.
+- Overcame deployment challenges and continuously improving app functionality.
 
-I would like to acknowledge the original designers and developers of the award-winning website that inspired this project. Their work served as a great learning resource and motivation for me to create this project.
+### [Dodging Car](https://github.com/Afrazsajid/Games-With-Python/tree/main/car%20dodge)
+- A Python game reminiscent of classic keypad mobile games.
+- Inspired by nostalgic gaming experiences from the past. Players navigate a car through obstacles using Pygame, showcasing retro-inspired gameplay.
+- Currently working on adding functionality for user-uploaded songs and customizable playlists.
+- Overcame deployment challenges and continuously improving app functionality.
 
-## link: https://animatedwebsitescollection.netlify.app/pepsi_redisgn/
+### [Pygame Algorithm Visualizer](https://github.com/Afrazsajid/python_projetcs/tree/main/algorithm%20visualizer)
+- Solo project utilizing Pygame for dynamic algorithm visualization.
+- Inspired by a desire to enhance understanding of sorting and searching algorithms.
+- Implemented real-time visualization and user interface design to create an interactive learning experience.
+
+---
+
+## Education
+
+**HSSC - Pre-Engineering**  
+SM Science College, Karachi, Pakistan - *Expected 2025*
+
+**Matriculation**  
+Adamjee Model School, Karachi, Pakistan - *2023*  
+84%, Representative of my school in the Board of Secondary Speech Competition, showcasing workplace skills.
+
+---
+
+## Skills
+
+- **Front End:** HTML, CSS, JavaScript
+- **Python**
+- **Pygame**
+
+  #Portfolio
+  
+
