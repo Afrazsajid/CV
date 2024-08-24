@@ -1,0 +1,194 @@
+@media only screen and (max-width: 480px) {
+  #info {
+    padding: 2px 16px;
+  }
+
+  .header{
+    padding-left: 8px;
+  }
+  #aboutme-cont>div{
+    flex-direction: column;
+  }
+  main {
+    width: 100vw;
+  }
+  #circle {
+    display: none;
+  }
+  .link-fixed a {
+    height: 100px;
+    color: black;
+
+
+  }
+
+
+  .vert{
+    writing-mode:tb-rl;
+  }
+
+  nav {
+    padding: 10px;
+  }
+  #menu-btn {
+    font-size: 0.8rem;
+  }
+  .hero-sec {
+    margin-bottom: 10rem;
+    margin-top: 2rem;
+  }
+  html {
+    font-size: 10px;
+  }
+  .l1,
+  .l2,
+  .l3 {
+    font-size: 7rem;
+    line-height: normal;
+  }
+  .l2 {
+    padding-left: 28px;
+  }
+  .l3 span {
+    font-size: 0.8rem;
+  }
+  .item {
+    font-size: 6rem;
+  }
+  .item img {
+    width: 150px;
+    transform: translate(0,-25px);
+  }
+  .aboutme-tex-cont {
+    width: 80%;
+  }
+  .aboutme-tex-cont p:nth-child(2) {
+    width: 100%;
+  }
+  .yt-sec a:last-child {
+    font-size: 1.2rem;
+  }
+  .FooterContainer {
+    flex-direction: column;
+  }
+  .Right {
+    margin-top: 10px;
+  }
+  .Right li {
+    margin-right: 10px;
+  }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 481px) {
+  .link-fixed a {
+    width: 100px;
+    height: 100px;
+    bottom: 20px;
+    right: 20px;
+  }
+  .link-fixed a span {
+    font-size: 1rem;
+  }
+  .vert {
+    writing-mode: horizontal-tb;
+  }
+  nav {
+    padding: 16px;
+  }
+  #menu-btn {
+    font-size: 1rem;
+  }
+  .hero-sec {
+    margin-bottom: 20rem;
+    margin-top: 4rem;
+  }
+  html {
+    font-size: 10px;
+  }
+  .l1,
+  .l2,
+  .l3 {
+    font-size: 8rem;
+  }
+  .l2 {
+    padding-left: 60px;
+  }
+  .l3 span {
+    font-size: 1rem;
+  }
+  .item {
+    font-size: 8rem;
+  }
+  .item img {
+    width: 400px;
+  }
+  .aboutme-tex-cont {
+    width: 70%;
+  }
+  .aboutme-tex-cont p:nth-child(2) {
+    width: 90%;
+  }
+  .yt-sec a:last-child {
+    font-size: 1.4rem;
+  }
+  .FooterContainer {
+    flex-direction: row;
+  }
+  .Right {
+    margin-top: 0;
+  }
+  .Right li {
+    margin-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 481px) {
+  .link-fixed a {
+    width: 120px;
+    height: 120px;
+    bottom: 30px;
+    right: 30px;
+  }
+  .link-fixed a span {
+    font-size: 1.2rem;
+  }
+  .vert {
+    writing-mode: vertical-rl;
+  }
+  nav {
+    padding: 24px;
+  }
+  #menu-btn {
+    font-size: 1.2rem;
+  }
+  .hero-sec {
+    margin-bottom: 25rem;
+    margin-top: 8rem;
+  }
+  html {
+    font-size: 12px;
+  }
+  .l1,
+  .l2,
+  .l3 {
+    font-size: 12rem;
+  }
+  .l2 {
+    padding-left: 120px;
+  }
+  .l3 span {
+    font-size: 1.2rem;
+  }
+  .item {
+    font-size: 12rem;
+  }
+  .item img {
+    width: 600px;
+  }
+  .aboutme-tex-cont {
+    width: 60%;
+  }
+  .aboutme-tex-cont p:nth-child(2) {
+    width: 90%;
+  }
+}

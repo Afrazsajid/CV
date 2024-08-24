@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    /* overflow: hidden; */
+
+
+
+}
+:root{
+    --color2:#13080b
+    --color1:#b11d20
+    
+    --color3:#ecd8d9
+
+}
+
+img{
+    width: 100%;
+}
+a{
+
+    text-decoration: none;
+}
+
+body,html{
+    background-color: #000000;
+    color: white;
+  
+    font-family: General Sans, sans-serif;
+
+}
