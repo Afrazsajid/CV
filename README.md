@@ -2,7 +2,7 @@
 
 **Email:** [afrazsajid55@gmail.com](mailto:afrazsajid55@gmail.com)  
 **Phone:** +92 321-2051546  
-**GitHub:** [AfrazSajid](https://github.com/Afrazsajid)
+
 
 ---
 
@@ -69,6 +69,6 @@ Adamjee Model School, Karachi, Pakistan - *2023*
 - **Python**
 - **Pygame**
 
-  #Portfolio
+  # Portfolio https://afrazsportfolio.netlify.app/
   
 
