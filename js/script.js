@@ -13,17 +13,7 @@ let timer
 
 
 
-// for menu
-function menuHandle() {
-  let menuBtn = document.getElementById('menu-btn');
-  let menuCont = document.getElementById('menu-item-cont')
-  menuBtn.addEventListener('click', function () {
-    // console.log("jj")
-    menuBtn.style.display = "none"
-    menuCont.style.display = 'flex'
-  }
-  );
-}
+
 
 
 let xprev = 0;
@@ -99,12 +89,16 @@ function firstpagefunc() {
   //   ease: Expo.easeInOut
 
   // })
+  tl.from(".img-div", {duration: 1, 
+    opacity:0
+  })
   tl.to('.l', {
     y: 0,
     opacity: 1,
     duration: 1.2,
     ease: Expo.easeInOut,
     stagger: 0.2,
+    delay:-0.5
 
   })
   tl.to('.el', {
@@ -277,7 +271,7 @@ document.addEventListener("DOMContentLoaded", function() {
   updateFooterTime()
   mouseskew()
   
-  menuHandle()
+
   
   firstpagefunc()
   

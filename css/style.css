@@ -88,6 +88,9 @@ nav *{
     font-size: 1.2rem;
     width: 100px;
 }
+#hero{
+  height: 100vh;
+}
 
 .header{
     width: fit-content;
@@ -96,10 +99,10 @@ nav *{
     align-items: center;
     /* gap: 88px; */
     gap: 64px;
-    flex-wrap: wrap;
+
 }
 .l1,.l2,.l3 {
-    line-height: 192px;
+
 
     font-size:12.5rem;
     font-weight: 500;
@@ -136,6 +139,12 @@ nav *{
     margin-top: 9px;
     padding-right: 16px;
     font-size: 1.1rem;
+}
+
+.img-div{
+  width: 40%;
+  min-width: 300px;
+  max-width: 677px;
 }
 #info{
     padding: 2px 42px;
@@ -338,7 +347,15 @@ nav *{
   section {
     padding: 55px 0;
     background-color: var(--dark-black);
-    height: 100vh;
+
+
+  }
+
+  #hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
   }
   
   .main-wrapper {
@@ -382,7 +399,7 @@ nav *{
   .sec-box {
     padding: 20px;
     /* border: 5px solid rgb(96 91 91 / 72%); */
-    box-shadow: 0 0.5rem 1rem 1px rgb(96 91 91 / 72%);
+   
     margin-bottom: 54px;
     border-radius: 8px;
   }
